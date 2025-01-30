@@ -1,0 +1,830 @@
+fileFormatVersion: 2
+guid: acd9b5048aaf8ce49894ba53c7a8d0a5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: marionear_20
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 706
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebb014eefe4e6a4e90576532cac8058
+      internalID: -1665491082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marionear_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 706
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43d6c4e37e25f4418a95654c6f36917
+      internalID: 161008044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marionear_22
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 706
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1a4a52c314bf7418a705238e449afe
+      internalID: 654489414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marionear_23
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 706
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7132d4476654646a10357baf0daf6b
+      internalID: 2044507342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marionear_24
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 706
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f3bdf532aa65e4a802a6215e633950
+      internalID: 1079175603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marionear_25
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 706
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6c5c682864c654eb15e782dcd6def8
+      internalID: -1897644355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marionear_26
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 708
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cdc037cc95902439a912f31d522604
+      internalID: -260265074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marionear_27
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 709
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add304c8ff2b664498c58ee56453f0e4
+      internalID: -1783022266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marionear_28
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 709
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed18747fbfc2a4d4793ee458aae48681
+      internalID: 1292210076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marionear_29
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 708
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2064ca18312314eb66febe2ed7ebc3
+      internalID: 1051581754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marionear_30
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 708
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab6c940d550a35419bbea80d05e4a19
+      internalID: -1469095264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marionear_31
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 709
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5517561ae3544444487dc1d2baf421d3
+      internalID: -460578864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marionear_32
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 709
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d1a579a224fa24e86e21644d78d612
+      internalID: 2061469152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marionear_33
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 706
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b6e727c82cc904889169f9f8574490
+      internalID: -897490591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marionear_34
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 706
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8de172ee2b7954d94b80eea1feba52
+      internalID: 1288469728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marionear_35
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 706
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9ab3335c67b8f42a6aeea2dbf56a94
+      internalID: 67559856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marionear_36
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 706
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78401939653e7b48977d25f09d562d8
+      internalID: -1896044529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marionear_37
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 706
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c04e4fbd0be734ebf22dd50dd4be9a
+      internalID: 1503547823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marionear_38
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 706
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d182be5e1754d438dd6e9e9b9d2e2a
+      internalID: -1691601992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marionear_39
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 706
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2501b17aad259ae4aa06ca29ccc73a7a
+      internalID: -1351390434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marionear_40
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 706
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34353cf65202c84ca00e3c8b5e02d76
+      internalID: 2113474290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      marionear_0: 1929010089
+      marionear_1: -629749275
+      marionear_10: -1265972638
+      marionear_100: -728533475
+      marionear_101: 1068515243
+      marionear_102: -1249755429
+      marionear_103: 70171812
+      marionear_104: -638327468
+      marionear_105: -138877735
+      marionear_106: 1524550877
+      marionear_107: 1384512404
+      marionear_108: 1797367650
+      marionear_109: 1913173078
+      marionear_11: -1877745298
+      marionear_110: 145163858
+      marionear_111: -399535042
+      marionear_112: 2037701626
+      marionear_113: -634334111
+      marionear_114: -1983804512
+      marionear_115: 2134030038
+      marionear_116: -1757791228
+      marionear_117: 1894505648
+      marionear_118: -931202324
+      marionear_119: 101573569
+      marionear_12: -175411367
+      marionear_120: -1940317558
+      marionear_121: -2141205605
+      marionear_122: 246860747
+      marionear_123: -1087565729
+      marionear_124: 1416991493
+      marionear_125: 1169776305
+      marionear_126: 304060759
+      marionear_127: -178810069
+      marionear_128: -885959176
+      marionear_129: -2104853984
+      marionear_13: -1753798439
+      marionear_130: 192041993
+      marionear_131: -1745775125
+      marionear_132: 1413737465
+      marionear_133: -1182185606
+      marionear_134: -1699480333
+      marionear_135: -2028840651
+      marionear_136: -713524446
+      marionear_137: 1419026702
+      marionear_138: -1245047148
+      marionear_139: 2030542086
+      marionear_14: 154922447
+      marionear_140: 1774918263
+      marionear_141: -1328505163
+      marionear_142: 1565501588
+      marionear_143: 284544577
+      marionear_144: -937491357
+      marionear_145: 1865586614
+      marionear_146: -1523901019
+      marionear_147: -1711951066
+      marionear_148: 1639911622
+      marionear_149: -847789202
+      marionear_15: -1599525090
+      marionear_150: -2145114010
+      marionear_151: -991295207
+      marionear_152: -396612808
+      marionear_153: 1355753766
+      marionear_154: 1956783049
+      marionear_155: 559503766
+      marionear_156: 383867006
+      marionear_157: -1936744757
+      marionear_158: 905249051
+      marionear_159: 642756566
+      marionear_16: 257926363
+      marionear_160: -923395818
+      marionear_161: 1760266082
+      marionear_162: -1669452183
+      marionear_163: -2106640171
+      marionear_164: 499851685
+      marionear_165: -1856026560
+      marionear_166: 237156028
+      marionear_167: -515273711
+      marionear_168: -794140796
+      marionear_169: -1332489733
+      marionear_17: 1563793094
+      marionear_170: -980311622
+      marionear_171: -1481569069
+      marionear_172: -1908781900
+      marionear_173: -710123065
+      marionear_174: 1074718715
+      marionear_175: -1963253859
+      marionear_176: -2075070212
+      marionear_177: -1858753619
+      marionear_178: -1764693520
+      marionear_179: -1364825333
+      marionear_18: -752720778
+      marionear_180: 1081869154
+      marionear_181: 1789695846
+      marionear_182: 2877349
+      marionear_183: -874574924
+      marionear_184: -1504327429
+      marionear_185: 2131309808
+      marionear_186: 1918322397
+      marionear_187: -1994595725
+      marionear_188: -1883266811
+      marionear_189: 235116732
+      marionear_19: -1138050369
+      marionear_190: -176324425
+      marionear_191: -498068696
+      marionear_192: 467775093
+      marionear_193: -381072699
+      marionear_194: -109849601
+      marionear_195: 1552626098
+      marionear_196: 1934803074
+      marionear_197: -354419563
+      marionear_198: -1741586757
+      marionear_199: -1598987362
+      marionear_2: -566210321
+      marionear_20: -1665491082
+      marionear_200: 994419126
+      marionear_201: 529351210
+      marionear_202: -732041565
+      marionear_203: 1508014040
+      marionear_204: 446232333
+      marionear_205: -1450110791
+      marionear_206: -648920511
+      marionear_207: -908373462
+      marionear_208: 18844412
+      marionear_209: 1240575087
+      marionear_21: 161008044
+      marionear_210: 9303866
+      marionear_211: 1478175100
+      marionear_22: 654489414
+      marionear_23: 2044507342
+      marionear_24: 1079175603
+      marionear_25: -1897644355
+      marionear_26: -260265074
+      marionear_27: -1783022266
+      marionear_28: 1292210076
+      marionear_29: 1051581754
+      marionear_3: -1042119590
+      marionear_30: -1469095264
+      marionear_31: -460578864
+      marionear_32: 2061469152
+      marionear_33: -897490591
+      marionear_34: 1288469728
+      marionear_35: 67559856
+      marionear_36: -1896044529
+      marionear_37: 1503547823
+      marionear_38: -1691601992
+      marionear_39: -1351390434
+      marionear_4: -2078919104
+      marionear_40: 2113474290
+      marionear_41: -674710634
+      marionear_42: 1567570718
+      marionear_43: 2033162166
+      marionear_44: 959330230
+      marionear_45: 1639506578
+      marionear_46: 2008704861
+      marionear_47: -749408973
+      marionear_48: 1758592792
+      marionear_49: 769796249
+      marionear_5: 2097278624
+      marionear_50: -1972638867
+      marionear_51: 2106381385
+      marionear_52: -687101965
+      marionear_53: -1255918654
+      marionear_54: -1571935685
+      marionear_55: 1141634597
+      marionear_56: -1163222808
+      marionear_57: 563370319
+      marionear_58: -328618550
+      marionear_59: 300241568
+      marionear_6: 1498807473
+      marionear_60: -860089542
+      marionear_61: -225751610
+      marionear_62: 1489751099
+      marionear_63: -1357427615
+      marionear_64: -2013315010
+      marionear_65: -1854040312
+      marionear_66: 1099642146
+      marionear_67: -1485803262
+      marionear_68: -360298617
+      marionear_69: -948077038
+      marionear_7: 1810235987
+      marionear_70: 1338200938
+      marionear_71: -1009547419
+      marionear_72: 1872208809
+      marionear_73: -1903230874
+      marionear_74: 1439200954
+      marionear_75: 184296019
+      marionear_76: -1289008
+      marionear_77: 606679984
+      marionear_78: 1801967828
+      marionear_79: -201314864
+      marionear_8: 1610394074
+      marionear_80: -768691906
+      marionear_81: -923294893
+      marionear_82: 1015452090
+      marionear_83: 281865898
+      marionear_84: 1151440435
+      marionear_85: 61694386
+      marionear_86: -192460876
+      marionear_87: -2126255143
+      marionear_88: 1443822745
+      marionear_89: -708363724
+      marionear_9: 1087920723
+      marionear_90: -1815773354
+      marionear_91: -847666176
+      marionear_92: -1521158455
+      marionear_93: 1074606301
+      marionear_94: 871340907
+      marionear_95: 2132925648
+      marionear_96: -61942806
+      marionear_97: 138980818
+      marionear_98: -660708710
+      marionear_99: 106712478
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

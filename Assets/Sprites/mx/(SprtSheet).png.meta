@@ -1,0 +1,2326 @@
+fileFormatVersion: 2
+guid: 1c5336714bbe6f14dbc0df4f23ab9f7b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MX Ver2_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 896
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe988ea16fb2bc4ab4b7fee480c82bf
+      internalID: -887281818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_7
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 896
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d70bf74aba0d04f9cb6e624139555a
+      internalID: -2145313491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 896
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c7634328fc4ee4896896a7ca9b773e
+      internalID: 1315950536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 896
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5985799d2ac475241b99a0d277744890
+      internalID: 1955040409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_10
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 896
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1824db982aad54d9174aff14210b2c
+      internalID: -467490257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 896
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5dc27fb8af6c24a904b6eb23f0e18a
+      internalID: -1337565522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_12
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 898
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32efe2ceea2beae45aeec04cc6faefb4
+      internalID: -1396425124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_13
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 899
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6beaca5e9faf7fd46aaf99ec5fd4e4a9
+      internalID: -1851230356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_14
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 899
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873c58d0a5225114ebaaa969ac6900e8
+      internalID: -2028942754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_15
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 898
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17621b69f0167f4b9abb0f58232b177
+      internalID: -1357411798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 898
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8043ed9dd69f2e540b3c79830385d696
+      internalID: 453736973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_17
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 899
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b68d78c99e5c44d83423635537562c
+      internalID: 1540723000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_18
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 899
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0c8c176ff523e46bb8fab95e9b912c
+      internalID: -260304659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_19
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 896
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9daa5d1446925b74eb39679b0ff0e4d5
+      internalID: -1480472761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_20
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 896
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad443d642bed2e4bb30ff5732a87f27
+      internalID: -489509885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_21
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 896
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73359f2ba234f4549aa75df06356b6b4
+      internalID: 774951874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_22
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 896
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486c6ed36832d734eb4874c5f2d59ddc
+      internalID: -1664380021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_23
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 896
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c144d0715cb9e643b49a28ec17e5f39
+      internalID: 1414154550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_24
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 896
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3831379835ca86e4eb7a36f4a47cacc8
+      internalID: 1718281944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_25
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 896
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629b8544e3f6d754ba45d8071fa61f01
+      internalID: -737434738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_26
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 896
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3d85d6c98129c44971238ea14d9ece
+      internalID: -1333833067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 843
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109e4f94677248143a69435350d2f7ff
+      internalID: -589358871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_37
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 843
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c913131c6b3dcfb479fd8b5c0620380d
+      internalID: -2071051103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_38
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 843
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9403f1f61bc674b8ca1402d4136536
+      internalID: -2075028354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_39
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 843
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86d6b1db8555e74883bb03d2093c17d
+      internalID: -69247291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_40
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 843
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2a9efe4cc26bc4db4dd96030db3164
+      internalID: -1644753959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_41
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 843
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d945e6a16dba841bddf6ec0ffa976a
+      internalID: -1363452966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_42
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 843
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf59321233a14b4595ce76f22635c11
+      internalID: -1460763819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_43
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 843
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdef228a769dabb41a716c2970184985
+      internalID: -1866852591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_44
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 843
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fdac9a5496b5c439b70a4e5a40f04a
+      internalID: -2052806023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_45
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 843
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7ccbae8da983f4e8d4a8d03892f4bd
+      internalID: 1829282945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_46
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 843
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb004c08cab957546b8bc23dd9a757e6
+      internalID: 1763826233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_47
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 843
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37d3f826259c8240816217d1b7deb43
+      internalID: 1030736581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_48
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 845
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f841adf317d43e4bbb8ddd091648a1b
+      internalID: -1070933059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_49
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 843
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a660163744f1242acab01733a90938
+      internalID: -1026751778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_50
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 843
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cab532357b85a43b8181dc3f58762c
+      internalID: -692799789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_51
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 795
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 3, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604413ef285d0d34381e5b40f193ea50
+      internalID: 739673036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_52
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 798
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d35cbad7163d5641aed53b1a898a849
+      internalID: -844133320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_53
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 798
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d073dc6b1adf94e9c079a810dd0db2
+      internalID: 1664979286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_54
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 798
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675663eb983c89e42bccf4a93cfe23f7
+      internalID: -960731226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_55
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 798
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b5cd9b6a9df0f4ebfe58a789c34730
+      internalID: 946625135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_56
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 798
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018b1e4dfb504c3498d541a5d47a52ea
+      internalID: -870719249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_57
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 782
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69965747c1318104ea745b149cb2281d
+      internalID: -1797233811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_58
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 782
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82969f6062212ed4baa689e295b50592
+      internalID: -1904773888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_59
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 782
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d197eb57e6ae1242b6d902d75adfa55
+      internalID: 152285783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_60
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 782
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b8920b3202a8d43a358225b7383ec6
+      internalID: 276681361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_61
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 782
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc2f0d387681294a82d37538835aed8
+      internalID: -973538747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_62
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 782
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3297732b82c887940b2fbbf48434ac03
+      internalID: 3262399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_63
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 782
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56090a51e5f7d1c40a782beb312d44aa
+      internalID: -1613309404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_64
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 782
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c9aace0f8d916448e98ad6e6d03939
+      internalID: -1137079049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_65
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 782
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1583531788df8541b4138c5e79dc0a6
+      internalID: -376655537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_66
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 782
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32023a97591afbd4385825210b406f44
+      internalID: -1398533083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_67
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 782
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8cec90197cffa4190d20d9406d8e28
+      internalID: -1451334542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_68
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 720
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee1c27cbc49c254d8fd88b21f174e58
+      internalID: -510035344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_69
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 720
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd9a433d08072443863a8f4dc14c04d
+      internalID: -1570014430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_70
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 720
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155fffc307f646641ade6a852827005c
+      internalID: -1822037622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_71
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 720
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c753f92203c3e478c2cc886af51df2
+      internalID: -118894157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_72
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 720
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b95382c60b1d1941933d2e9872c1550
+      internalID: 2081787095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_73
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 720
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ae6cb67add12346a1340d138978c09
+      internalID: -1597396549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_74
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 720
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f41fdc9f2f45e149bb0b73d9281dcab
+      internalID: -186929269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_75
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 720
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaea775054e9c764592296898c8621ff
+      internalID: 518386994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_76
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 664
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182b0445320bfa246b3dab099fbccda7
+      internalID: -835711335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_77
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 664
+        width: 73
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c361ef5c643bb4b9faadf798a7eff8
+      internalID: 476954705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_78
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 664
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf38293674326d04e80b8c6a9f9a3b50
+      internalID: 1889907572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_79
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 664
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7031e6239fcfc418ddb7c8d6814354
+      internalID: -1142917664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_80
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 664
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cfe7d69ba5607459f9d21526b0c78a
+      internalID: -1831191819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 664
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad738cdb8e70b94ba24493445ffc0f7
+      internalID: -780617503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_82
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 602
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd158f7f58faaf047b728a579e93867a
+      internalID: -873526573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_83
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 602
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def82369f530d9844be63bb8ff77e28e
+      internalID: -327424611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_84
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 602
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f26232209b87fd4fa2e715d1e766da7
+      internalID: -23383099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_85
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 602
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f2d7871c014fc43a8a8f5697ee4d49
+      internalID: -1130481257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_86
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 641
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353ea1a7b0094d84ab379ca0021eac1f
+      internalID: -179401314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_87
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 641
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a54afa973e999d42b7eee85de846a67
+      internalID: 644473056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_88
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 641
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0b249e3ca6bb1418dc371b91969ac5
+      internalID: -982591093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_89
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 641
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3545afa1f593ef4419aae3d1a175b6ff
+      internalID: -1627473121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_90
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 641
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7703e365db55804408607a378466cf11
+      internalID: 855499886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_91
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 641
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b104f5156f7e645afccfb0184c05a3
+      internalID: -552604505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_92
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 641
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2037eac6980b34e8c6dbc18fe44a09
+      internalID: -2113910716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_95
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 626
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77dd6a18e3387f4382b90fc3aa68d08
+      internalID: 1858102031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_96
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 626
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23aebb1deb1ffe342b5896d9aecd7ffd
+      internalID: 1018840564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_97
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 626
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d149a1e53544645a8153d055183bbe
+      internalID: -714083325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_98
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 626
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed811666d5536b64fb48b2742a909dc0
+      internalID: 1715979074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_99
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 626
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215ea70d104967144bcbbdb8594fc57e
+      internalID: -679014646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_100
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 626
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cc825158a0a914ca4eb0b5a3a907cd
+      internalID: -1585006540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_101
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 626
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c118d501084d449996b5e38288ceeb
+      internalID: 1158754272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_131
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 422
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d747af9f3bc51c48a69fa417418dc80
+      internalID: -444413844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_132
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 422
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9900f90f558899d46ac26aea9c771833
+      internalID: -2000768969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_133
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 422
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41530cf5c502a7d4f9d3b661a908acce
+      internalID: 575186849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_134
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 422
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bfeae3a5614cd459e8ccbc40eeabd2
+      internalID: -565526069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_135
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 422
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25565d80b554284084512ac8d4adae3
+      internalID: 272636307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_136
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 422
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a44f8e8bbba0247b8b7bd391bfa35d
+      internalID: 1506325978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_137
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 422
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad73d017fa328445a651819ae5044c5
+      internalID: -1046714225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_138
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 422
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0b52682281ae141b3c3f0e23bce2a8
+      internalID: 1400945033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_139
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 422
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2583f6ef273a34181a581ff19666fd
+      internalID: -1837950006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_140
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 422
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6903ac66d0aec4ebbd00fc007c59f3
+      internalID: 2004763191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_141
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 422
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb6b1a6afd00dc4cb16b06d7df3e7a1
+      internalID: -1069988739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MX Ver2_142
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 422
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b3107f756ec5c47a8bddbbd3b85214
+      internalID: -11090243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MX Ver2_0: 1934979988
+      MX Ver2_1: -1547314901
+      MX Ver2_10: -467490257
+      MX Ver2_100: -1585006540
+      MX Ver2_101: 1158754272
+      MX Ver2_102: 374009987
+      MX Ver2_103: -1227845543
+      MX Ver2_104: 279498352
+      MX Ver2_105: 159445771
+      MX Ver2_106: 1313240637
+      MX Ver2_107: 733865699
+      MX Ver2_108: -395739773
+      MX Ver2_109: -282915748
+      MX Ver2_11: -1337565522
+      MX Ver2_110: 1772648309
+      MX Ver2_111: -1251566092
+      MX Ver2_112: 1447969726
+      MX Ver2_113: -1588986152
+      MX Ver2_114: 851407851
+      MX Ver2_115: 1546076234
+      MX Ver2_116: 782645154
+      MX Ver2_117: -1646818422
+      MX Ver2_118: -1803458300
+      MX Ver2_119: -275610630
+      MX Ver2_12: -1396425124
+      MX Ver2_120: -1888458880
+      MX Ver2_121: 1511402063
+      MX Ver2_122: 1501925087
+      MX Ver2_123: -1224214425
+      MX Ver2_124: 51901734
+      MX Ver2_125: 284441570
+      MX Ver2_126: -1718203807
+      MX Ver2_127: -2115009450
+      MX Ver2_128: 1631592121
+      MX Ver2_129: -1533693675
+      MX Ver2_13: -1851230356
+      MX Ver2_130: 952399656
+      MX Ver2_131: -444413844
+      MX Ver2_132: -2000768969
+      MX Ver2_133: 575186849
+      MX Ver2_134: -565526069
+      MX Ver2_135: 272636307
+      MX Ver2_136: 1506325978
+      MX Ver2_137: -1046714225
+      MX Ver2_138: 1400945033
+      MX Ver2_139: -1837950006
+      MX Ver2_14: -2028942754
+      MX Ver2_140: 2004763191
+      MX Ver2_141: -1069988739
+      MX Ver2_142: -11090243
+      MX Ver2_143: 625820602
+      MX Ver2_144: 1711388107
+      MX Ver2_145: -831901556
+      MX Ver2_146: -1768075510
+      MX Ver2_147: -114119400
+      MX Ver2_148: -1654731919
+      MX Ver2_149: -1710244882
+      MX Ver2_15: -1357411798
+      MX Ver2_150: -1926785938
+      MX Ver2_151: 510129645
+      MX Ver2_152: 1280072112
+      MX Ver2_153: -956947377
+      MX Ver2_154: -86552816
+      MX Ver2_155: 1861580346
+      MX Ver2_156: -491779184
+      MX Ver2_157: -476143176
+      MX Ver2_158: 551924954
+      MX Ver2_159: 1710069807
+      MX Ver2_16: 453736973
+      MX Ver2_160: 183350389
+      MX Ver2_161: -1141930559
+      MX Ver2_162: 1452265951
+      MX Ver2_163: 1006966064
+      MX Ver2_164: 1605866781
+      MX Ver2_165: 925991741
+      MX Ver2_17: 1540723000
+      MX Ver2_18: -260304659
+      MX Ver2_19: -1480472761
+      MX Ver2_2: 2078359084
+      MX Ver2_20: -489509885
+      MX Ver2_21: 774951874
+      MX Ver2_22: -1664380021
+      MX Ver2_23: 1414154550
+      MX Ver2_24: 1718281944
+      MX Ver2_25: -737434738
+      MX Ver2_26: -1333833067
+      MX Ver2_27: -706434303
+      MX Ver2_28: -810824373
+      MX Ver2_29: -168943584
+      MX Ver2_3: -1217829049
+      MX Ver2_30: 1887358702
+      MX Ver2_31: 1798686944
+      MX Ver2_32: 908843322
+      MX Ver2_33: -88936364
+      MX Ver2_34: 1275100860
+      MX Ver2_35: 347757257
+      MX Ver2_36: -589358871
+      MX Ver2_37: -2071051103
+      MX Ver2_38: -2075028354
+      MX Ver2_39: -69247291
+      MX Ver2_4: 1602922315
+      MX Ver2_40: -1644753959
+      MX Ver2_41: -1363452966
+      MX Ver2_42: -1460763819
+      MX Ver2_43: -1866852591
+      MX Ver2_44: -2052806023
+      MX Ver2_45: 1829282945
+      MX Ver2_46: 1763826233
+      MX Ver2_47: 1030736581
+      MX Ver2_48: -1070933059
+      MX Ver2_49: -1026751778
+      MX Ver2_5: -836300628
+      MX Ver2_50: -692799789
+      MX Ver2_51: 739673036
+      MX Ver2_52: -844133320
+      MX Ver2_53: 1664979286
+      MX Ver2_54: -960731226
+      MX Ver2_55: 946625135
+      MX Ver2_56: -870719249
+      MX Ver2_57: -1797233811
+      MX Ver2_58: -1904773888
+      MX Ver2_59: 152285783
+      MX Ver2_6: -887281818
+      MX Ver2_60: 276681361
+      MX Ver2_61: -973538747
+      MX Ver2_62: 3262399
+      MX Ver2_63: -1613309404
+      MX Ver2_64: -1137079049
+      MX Ver2_65: -376655537
+      MX Ver2_66: -1398533083
+      MX Ver2_67: -1451334542
+      MX Ver2_68: -510035344
+      MX Ver2_69: -1570014430
+      MX Ver2_7: -2145313491
+      MX Ver2_70: -1822037622
+      MX Ver2_71: -118894157
+      MX Ver2_72: 2081787095
+      MX Ver2_73: -1597396549
+      MX Ver2_74: -186929269
+      MX Ver2_75: 518386994
+      MX Ver2_76: -835711335
+      MX Ver2_77: 476954705
+      MX Ver2_78: 1889907572
+      MX Ver2_79: -1142917664
+      MX Ver2_8: 1315950536
+      MX Ver2_80: -1831191819
+      MX Ver2_81: -780617503
+      MX Ver2_82: -873526573
+      MX Ver2_83: -327424611
+      MX Ver2_84: -23383099
+      MX Ver2_85: -1130481257
+      MX Ver2_86: -179401314
+      MX Ver2_87: 644473056
+      MX Ver2_88: -982591093
+      MX Ver2_89: -1627473121
+      MX Ver2_9: 1955040409
+      MX Ver2_90: 855499886
+      MX Ver2_91: -552604505
+      MX Ver2_92: -2113910716
+      MX Ver2_93: 1971161158
+      MX Ver2_94: 1734823599
+      MX Ver2_95: 1858102031
+      MX Ver2_96: 1018840564
+      MX Ver2_97: -714083325
+      MX Ver2_98: 1715979074
+      MX Ver2_99: -679014646
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
