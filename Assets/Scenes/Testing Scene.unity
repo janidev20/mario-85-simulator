@@ -894,8 +894,8 @@ Transform:
   m_GameObject: {fileID: 404336835}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.048, y: 0.202, z: -0.0480627}
-  m_LocalScale: {x: 5.934285, y: 5.934285, z: 5.934285}
+  m_LocalPosition: {x: 0.048, y: 0.202, z: -0.048063}
+  m_LocalScale: {x: 4.0459957, y: 4.0459957, z: 4.0459957}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 997214043}
@@ -944,7 +944,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -1835528210, guid: a465584b4a3770e40a22125bc2928e65, type: 3}
+  m_Sprite: {fileID: -7789223462032546663, guid: 2b96e6f9ca4082249ab8871672018fba, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1284,8 +1284,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 997214043}
-  cam: {fileID: 0}
-  shakeRange: {x: -1, y: 1}
 --- !u!1 &524168938
 GameObject:
   m_ObjectHideFlags: 0
@@ -2578,7 +2576,6 @@ MonoBehaviour:
   moveSpeed: 0.1
   maxSpeed: 3
   maxRunSpeed: 10
-  accelerationSpeed: 0.5
   isRunning: 0
   isMoving: 0
   isSliding: 0
@@ -2653,7 +2650,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   stepCoolDownAmount: 0.5
   isProgressive: 1
-  inTransformingState: 0
   manageProgress: 0
   canProceed: 0
   tookStep: 0
@@ -2708,7 +2704,7 @@ MonoBehaviour:
   FH_maxSpeed: 3
   FH_maxRunSpeed: 10
   FH_jumpSpeed: 9
-  PC_moveSpeed: 7
+  PC_moveSpeed: 10
   PC_maxSpeed: 3
   PC_maxRunSpeed: 10
   PC_jumpSpeed: 9

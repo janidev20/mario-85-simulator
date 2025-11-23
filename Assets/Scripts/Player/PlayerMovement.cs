@@ -51,6 +51,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private Vector3 fhHeadColliderPosOffset, fhHeadColliderSizeOffset;
     [SerializeField] private Vector3 pcHeadColliderPosOffset, pcHeadColliderSizeOffset;
     [SerializeField] private Vector3 mxHeadColliderPosOffset, mxHeadColliderSizeOffset;
+    [SerializeField] private Vector3 defHeadColliderPosOffset, defHeadColliderSizeOffset;
 
     [Header("Crouch")]
     [SerializeField] private bool isCrouching;
@@ -105,6 +106,8 @@ public class PlayerMovement : MonoBehaviour
         maxSpeed = PlayerAttributes.instance.maxSpeed;
         maxRunSpeed = PlayerAttributes.instance.maxRunSpeed;
         jumpSpeed = PlayerAttributes.instance.jumpSpeed;
+        defColliderOffset = Vector2.zero;
+        defColliderSize = Vector2.zero;
     }
 
     void Movement()
