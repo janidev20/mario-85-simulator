@@ -6,6 +6,7 @@ TagManager:
   tags:
   - WahooJump
   - fallTrigger
+  - Wall
   layers:
   - Default
   - TransparentFX
@@ -16,7 +17,7 @@ TagManager:
   - Ground
   - Post Processing
   - fallTrigger
-  - 
+  - Player
   - 
   - 
   - 
